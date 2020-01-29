@@ -1,0 +1,53 @@
+﻿Name Startup	Monthly Visits	Monthly Visits Growth	Country	Share of Monthly Visits	Monthly Visits Growth Country	Site's Rank in Country	Monthly Rank Growth	Data e hora da Captura	URL
+UNI5	7,591	-22.04%	India	23%	87.78%	187,552	33.72%	28/01/2020 23:50:24	https://www.crunchbase.com/organization/uni5#section-web-traffic-by-similarweb
+UNI5	7,591	-22.04%	United States	4%	-46.7%	1,910,144	123.22%	28/01/2020 23:50:24	https://www.crunchbase.com/organization/uni5#section-web-traffic-by-similarweb
+UNI5	7,591	-22.04%	Canada	4%	281.44%	987,087	9.6%	28/01/2020 23:50:24	https://www.crunchbase.com/organization/uni5#section-web-traffic-by-similarweb
+UNI5	7,591	-22.04%	Australia	2%	—	776,217	—	28/01/2020 23:50:24	https://www.crunchbase.com/organization/uni5#section-web-traffic-by-similarweb
+UNI5	7,591	-22.04%	United Kingdom	2%	—	1,717,813	—	28/01/2020 23:50:24	https://www.crunchbase.com/organization/uni5#section-web-traffic-by-similarweb
+BitcoinToYou	44,064	-22.46%	Brazil	68%	-23.94%	18,330	-2.61%	28/01/2020 23:50:28	https://www.crunchbase.com/organization/bitcointoyou#section-web-traffic-by-similarweb
+BitcoinToYou	44,064	-22.46%	United States	1%	13.26%	2,553,523	-24.38%	28/01/2020 23:50:28	https://www.crunchbase.com/organization/bitcointoyou#section-web-traffic-by-similarweb
+BitcoinToYou	44,064	-22.46%	China	1%	—	1,313,173	—	28/01/2020 23:50:28	https://www.crunchbase.com/organization/bitcointoyou#section-web-traffic-by-similarweb
+BitcoinToYou	44,064	-22.46%	Mexico	0%	—	368,152	—	28/01/2020 23:50:28	https://www.crunchbase.com/organization/bitcointoyou#section-web-traffic-by-similarweb
+BitcoinToYou	44,064	-22.46%	Turkey	0%	—	1,042,006	—	28/01/2020 23:50:28	https://www.crunchbase.com/organization/bitcointoyou#section-web-traffic-by-similarweb
+Buscar Peças	1,819	34.84%	Brazil	65%	52.7%	236,134	-39.3%	28/01/2020 23:51:04	https://www.crunchbase.com/organization/buscar-pe%C3%A7as#section-web-traffic-by-similarweb
+Digital House	163,227	-47.11%	Argentina	42%	-50.9%	3,847	102.79%	28/01/2020 23:51:41	https://www.crunchbase.com/organization/digital-house#section-web-traffic-by-similarweb
+Digital House	163,227	-47.11%	Brazil	28%	-33.99%	18,058	47.77%	28/01/2020 23:51:41	https://www.crunchbase.com/organization/digital-house#section-web-traffic-by-similarweb
+Digital House	163,227	-47.11%	United States	1%	-21.36%	815,770	0.93%	28/01/2020 23:51:41	https://www.crunchbase.com/organization/digital-house#section-web-traffic-by-similarweb
+Digital House	163,227	-47.11%	Spain	1%	—	396,467	—	28/01/2020 23:51:41	https://www.crunchbase.com/organization/digital-house#section-web-traffic-by-similarweb
+Digital House	163,227	-47.11%	Angola	0%	—	23,487	—	28/01/2020 23:51:41	https://www.crunchbase.com/organization/digital-house#section-web-traffic-by-similarweb
+Indesilife	15,893	-10.98%	India	4%	-48.46%	77,594	5%	28/01/2020 23:52:35	https://www.crunchbase.com/organization/indesilife#section-web-traffic-by-similarweb
+Indesilife	15,893	-10.98%	Pakistan	1%	-46.25%	161,914	5.86%	28/01/2020 23:52:35	https://www.crunchbase.com/organization/indesilife#section-web-traffic-by-similarweb
+Indesilife	15,893	-10.98%	Canada	1%	—	1,695,528	—	28/01/2020 23:52:35	https://www.crunchbase.com/organization/indesilife#section-web-traffic-by-similarweb
+Indesilife	15,893	-10.98%	Italy	1%	—	1,886,403	—	28/01/2020 23:52:35	https://www.crunchbase.com/organization/indesilife#section-web-traffic-by-similarweb
+Indesilife	15,893	-10.98%	Jordan	1%	—	158,028	—	28/01/2020 23:52:35	https://www.crunchbase.com/organization/indesilife#section-web-traffic-by-similarweb
+Quanto Gastei	372	227.79%	Bangladesh	40%	—	269,389	—	28/01/2020 23:52:39	https://www.crunchbase.com/organization/quanto-gastei#section-web-traffic-by-similarweb
+Hand Talk	48,278	-38.09%	Brazil	47%	-45.23%	31,677	51.05%	28/01/2020 23:52:43	https://www.crunchbase.com/organization/hand-talk#section-web-traffic-by-similarweb
+Hand Talk	48,278	-38.09%	United Kingdom	1%	—	1,483,912	—	28/01/2020 23:52:43	https://www.crunchbase.com/organization/hand-talk#section-web-traffic-by-similarweb
+Hand Talk	48,278	-38.09%	United States	0%	—	906,028	—	28/01/2020 23:52:43	https://www.crunchbase.com/organization/hand-talk#section-web-traffic-by-similarweb
+Hand Talk	48,278	-38.09%	India	0%	-12.6%	1,048,833	-46.53%	28/01/2020 23:52:43	https://www.crunchbase.com/organization/hand-talk#section-web-traffic-by-similarweb
+Hand Talk	48,278	-38.09%	Sweden	0%	—	680,651	—	28/01/2020 23:52:43	https://www.crunchbase.com/organization/hand-talk#section-web-traffic-by-similarweb
+Ilhasoft	2,302	-43.28%	Brazil	60%	-50.42%	330,372	70.68%	28/01/2020 23:53:03	https://www.crunchbase.com/organization/ilhasoft#section-web-traffic-by-similarweb
+Ilhasoft	2,302	-43.28%	China	9%	—	1,546,805	—	28/01/2020 23:53:03	https://www.crunchbase.com/organization/ilhasoft#section-web-traffic-by-similarweb
+Ilhasoft	2,302	-43.28%	Mozambique	5%	—	55,798	—	28/01/2020 23:53:03	https://www.crunchbase.com/organization/ilhasoft#section-web-traffic-by-similarweb
+Ilhasoft	2,302	-43.28%	Croatia	4%	—	310,956	—	28/01/2020 23:53:03	https://www.crunchbase.com/organization/ilhasoft#section-web-traffic-by-similarweb
+Ilhasoft	2,302	-43.28%	Morocco	2%	—	549,554	—	28/01/2020 23:53:03	https://www.crunchbase.com/organization/ilhasoft#section-web-traffic-by-similarweb
+PokerLAB	11,992	-22.59%	Brazil	77%	-33.12%	61,913	3.3%	28/01/2020 23:53:07	https://www.crunchbase.com/organization/pokerlab#section-web-traffic-by-similarweb
+PokerLAB	11,992	-22.59%	Canada	2%	—	705,735	—	28/01/2020 23:53:07	https://www.crunchbase.com/organization/pokerlab#section-web-traffic-by-similarweb
+BlueDental	418	44.37%	Brazil	42%	1.06%	935,109	-21.88%	28/01/2020 23:53:27	https://www.crunchbase.com/organization/bluedental#section-web-traffic-by-similarweb
+iSitesWS	2,593	-3.89%	Brazil	11%	-8.68%	294,714	3.97%	28/01/2020 23:54:15	https://www.crunchbase.com/organization/isitesws#section-web-traffic-by-similarweb
+ContatoWS	5,546	114.68%	Brazil	76%	259.24%	82,738	-51.36%	28/01/2020 23:54:58	https://www.crunchbase.com/organization/contatows#section-web-traffic-by-similarweb
+Proesc	208,187	-6.02%	Brazil	56%	23.01%	4,332	-26.43%	28/01/2020 23:59:07	https://www.crunchbase.com/organization/proesc#section-web-traffic-by-similarweb
+Proesc	208,187	-6.02%	Angola	1%	35.79%	563	-33.53%	28/01/2020 23:59:07	https://www.crunchbase.com/organization/proesc#section-web-traffic-by-similarweb
+Proesc	208,187	-6.02%	Portugal	0%	43.03%	92,877	-46.16%	28/01/2020 23:59:07	https://www.crunchbase.com/organization/proesc#section-web-traffic-by-similarweb
+Proesc	208,187	-6.02%	Kenya	0%	—	245,454	—	28/01/2020 23:59:07	https://www.crunchbase.com/organization/proesc#section-web-traffic-by-similarweb
+Onisafra	1,544	-42.45%	Brazil	44%	-28.54%	260,400	33.87%	29/01/2020 00:00:15	https://www.crunchbase.com/organization/onisafra#section-web-traffic-by-similarweb
+Trocados	1,251	-13.68%	Brazil	22%	17.47%	300,205	-16.96%	29/01/2020 00:00:51	https://www.crunchbase.com/organization/trocados#section-web-traffic-by-similarweb
+Cardume Coworking	639	301.76%	Brazil	50%	—	622,376	—	29/01/2020 00:01:02	https://www.crunchbase.com/organization/cardume-coworking#section-web-traffic-by-similarweb
+Ludic Studios	491	1,192.18%	Brazil	49%	—	1,311,375	—	29/01/2020 00:01:53	https://www.crunchbase.com/organization/ludic-studios#section-web-traffic-by-similarweb
+Ludic Studios	491	1,192.18%	United States	26%	—	4,171,303	—	29/01/2020 00:01:53	https://www.crunchbase.com/organization/ludic-studios#section-web-traffic-by-similarweb
+Ludic Studios	491	1,192.18%	United Kingdom	20%	—	2,433,654	—	29/01/2020 00:01:53	https://www.crunchbase.com/organization/ludic-studios#section-web-traffic-by-similarweb
+Ludic Studios	491	1,192.18%	Ukraine	5%	—	1,909,879	—	29/01/2020 00:01:53	https://www.crunchbase.com/organization/ludic-studios#section-web-traffic-by-similarweb
+Transire	1,959	18.13%	Brazil	60%	80.67%	325,435	0.36%	29/01/2020 00:02:12	https://www.crunchbase.com/organization/transire#section-web-traffic-by-similarweb
+Rbarcos	1,431	169.29%	Brazil	43%	—	283,706	—	29/01/2020 00:04:08	https://www.crunchbase.com/organization/rbarcos#section-web-traffic-by-similarweb
+Communy	2,961	55.62%	Brazil	49%	41.22%	202,136	40.63%	29/01/2020 00:04:27	https://www.crunchbase.com/organization/communy#section-web-traffic-by-similarweb
+Communy	2,961	55.62%	Brazil	49%	41.22%	202,136	40.63%	29/01/2020 00:04:27	https://www.crunchbase.com/organization/communy#section-web-traffic-by-similarweb
